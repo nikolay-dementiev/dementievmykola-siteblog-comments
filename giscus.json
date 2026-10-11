@@ -1,0 +1,14 @@
+{
+  "origins": [
+    "https://dementievmykola.com",
+    "https://www.dementievmykola.com",
+    "https://dementievmykola-siteblog.netlify.app",
+    "https://giscus.app"
+  ],
+  "originsRegex": [
+    "^https://deploy-preview-[0-9]+--dementievmykola-siteblog\\.netlify\\.app$",
+    "^https://[a-z0-9-]+--dementievmykola-siteblog\\.netlify\\.app$",
+    "^http://(localhost|127\\.0\\.0\\.1):[0-9]+$"
+  ],
+  "defaultCommentOrder": "oldest"
+}
